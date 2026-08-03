@@ -237,7 +237,7 @@ def main() -> None:
                     print("\nSCOREBOX FOUND:")
                     print(scorebox.get_text(separator=" | ", strip=True)[:300])
         else:
-            print(f"BLOCKED — Status 403 or other error")
+            print("BLOCKED — Status 403 or other error")
 
         # Always wait between requests
         print("Waiting 5 seconds before next request...")

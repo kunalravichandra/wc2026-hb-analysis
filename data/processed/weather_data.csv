@@ -1,0 +1,105 @@
+match_id,date,kickoff_hour_utc,stadium_name,city,country,elevation_meters,timezone,temp_celsius,humidity_pct,feels_like_celsius,precipitation_mm,wind_speed_kmh,cloud_cover_pct,heat_index_celsius,heat_stress_category,above_fifa_threshold_32c,collected_at
+1,2026-06-11,19,Mexico City Stadium (Estadio Azteca),Mexico City,MEX,2200,America/Mexico_City,16.9,88,17.5,0.4,6.9,55,16.9,Low,0,2026-08-02T10:16:56.557176+00:00
+2,2026-06-11,23,Guadalajara Stadium (Estadio Akron),Zapopan,MEX,1566,America/Mexico_City,18.4,93,19.7,0.0,8.7,24,18.4,Low,0,2026-08-02T10:17:01.925403+00:00
+3,2026-06-12,19,Toronto Stadium (BMO Field),Toronto,CAN,76,America/Toronto,25.2,42,23.2,0.0,17.1,5,25.2,Low,0,2026-08-02T10:17:05.074889+00:00
+4,2026-06-12,23,Los Angeles Stadium (SoFi Stadium),Inglewood,USA,30,America/Los_Angeles,19.4,82,20.8,0.0,4.9,0,19.4,Low,0,2026-08-02T10:17:07.861101+00:00
+5,2026-06-13,15,Boston Stadium (Gillette Stadium),Foxborough,USA,87,America/New_York,30.2,30,31.2,0.0,9.0,0,28.94,Moderate,0,2026-08-02T10:17:13.116136+00:00
+6,2026-06-13,18,New York New Jersey Stadium (MetLife Stadium),East Rutherford,USA,7,America/New_York,31.3,29,30.1,0.0,10.0,19,29.95,Moderate,0,2026-08-02T10:17:14.958168+00:00
+7,2026-06-13,21,Philadelphia Stadium (Lincoln Financial Field),Philadelphia,USA,3,America/New_York,27.7,40,27.6,0.0,6.5,93,27.41,Moderate,0,2026-08-02T10:17:19.288894+00:00
+8,2026-06-13,23,Seattle Stadium (Lumen Field),Seattle,USA,3,America/Los_Angeles,20.3,47,18.3,0.0,10.7,99,20.3,Low,0,2026-08-02T10:17:21.046001+00:00
+9,2026-06-14,15,Atlanta Stadium (Mercedes-Benz Stadium),Atlanta,USA,318,America/New_York,31.7,50,34.2,0.1,16.7,70,33.82,High,1,2026-08-02T10:17:25.361779+00:00
+10,2026-06-14,18,San Francisco Bay Area Stadium (Levi's Stadium),Santa Clara,USA,8,America/Los_Angeles,22.9,53,21.7,0.0,14.3,0,22.9,Low,0,2026-08-02T10:17:27.220040+00:00
+11,2026-06-14,21,Houston Stadium (NRG Stadium),Houston,USA,14,America/Chicago,26.1,93,31.8,0.1,6.2,98,26.1,Low,0,2026-08-02T10:17:31.613455+00:00
+12,2026-06-14,23,Kansas City Stadium (Arrowhead Stadium),Kansas City,USA,264,America/Chicago,20.1,65,20.6,0.0,3.8,87,20.1,Low,0,2026-08-02T10:17:36.992876+00:00
+13,2026-06-15,15,Miami Stadium (Hard Rock Stadium),Miami Gardens,USA,2,America/New_York,33.5,52,38.5,0.2,11.4,69,37.96,High,1,2026-08-02T10:17:42.670270+00:00
+14,2026-06-15,18,Dallas Stadium (AT&T Stadium),Arlington,USA,184,America/Chicago,27.2,79,31.8,0.0,6.4,51,30.08,Moderate,0,2026-08-02T10:17:44.458034+00:00
+15,2026-06-15,21,Monterrey Stadium (Estadio BBVA),Guadalupe,MEX,538,America/Mexico_City,24.0,91,28.6,1.5,3.1,100,24.0,Low,0,2026-08-02T10:17:46.804745+00:00
+16,2026-06-15,23,Vancouver Stadium (BC Place),Vancouver,CAN,9,America/Vancouver,20.6,58,20.9,0.0,2.2,12,20.6,Low,0,2026-08-02T10:17:49.525606+00:00
+17,2026-06-16,15,New York New Jersey Stadium (MetLife Stadium),East Rutherford,USA,7,America/New_York,24.6,34,25.3,0.0,5.7,27,24.6,Low,0,2026-08-02T10:17:52.179693+00:00
+18,2026-06-16,18,Boston Stadium (Gillette Stadium),Foxborough,USA,87,America/New_York,23.3,37,21.6,0.0,7.8,17,23.3,Low,0,2026-08-02T10:17:54.727750+00:00
+19,2026-06-16,21,Los Angeles Stadium (SoFi Stadium),Inglewood,USA,30,America/Los_Angeles,18.7,79,19.4,0.0,6.2,0,18.7,Low,0,2026-08-02T10:17:56.592669+00:00
+20,2026-06-16,23,San Francisco Bay Area Stadium (Levi's Stadium),Santa Clara,USA,8,America/Los_Angeles,16.1,79,16.0,0.0,6.1,2,16.1,Low,0,2026-08-02T10:18:00.739310+00:00
+21,2026-06-17,15,Atlanta Stadium (Mercedes-Benz Stadium),Atlanta,USA,318,America/New_York,29.0,52,32.0,0.0,13.0,34,29.91,Moderate,0,2026-08-02T10:18:02.579822+00:00
+22,2026-06-17,18,Miami Stadium (Hard Rock Stadium),Miami Gardens,USA,2,America/New_York,32.0,57,35.6,0.2,10.8,82,36.2,High,1,2026-08-02T10:18:06.888352+00:00
+23,2026-06-17,21,Houston Stadium (NRG Stadium),Houston,USA,14,America/Chicago,27.3,87,33.2,0.0,5.5,86,31.23,Moderate,0,2026-08-02T10:18:12.353886+00:00
+24,2026-06-17,23,Seattle Stadium (Lumen Field),Seattle,USA,3,America/Los_Angeles,19.0,52,17.3,0.0,9.8,0,19.0,Low,0,2026-08-02T10:18:14.183599+00:00
+25,2026-06-18,15,Atlanta Stadium (Mercedes-Benz Stadium),Atlanta,USA,318,America/New_York,25.0,86,28.0,3.0,20.2,100,25.0,Low,0,2026-08-02T10:18:16.217733+00:00
+26,2026-06-18,18,Los Angeles Stadium (SoFi Stadium),Inglewood,USA,30,America/Los_Angeles,19.9,68,19.5,0.0,11.6,23,19.9,Low,0,2026-08-02T10:18:18.737073+00:00
+27,2026-06-18,21,Vancouver Stadium (BC Place),Vancouver,CAN,9,America/Vancouver,19.8,66,18.8,0.0,13.7,22,19.8,Low,0,2026-08-02T10:18:21.829087+00:00
+28,2026-06-18,23,Mexico City Stadium (Estadio Azteca),Mexico City,MEX,2200,America/Mexico_City,15.9,92,17.2,0.1,1.7,41,15.9,Low,0,2026-08-02T10:18:24.314899+00:00
+29,2026-06-19,15,New York New Jersey Stadium (MetLife Stadium),East Rutherford,USA,7,America/New_York,29.0,28,27.7,0.0,16.8,88,27.76,Moderate,0,2026-08-02T10:18:26.144876+00:00
+30,2026-06-19,18,Dallas Stadium (AT&T Stadium),Arlington,USA,184,America/Chicago,26.1,75,29.0,0.0,11.4,100,26.1,Low,0,2026-08-02T10:18:30.395808+00:00
+31,2026-06-19,21,Toronto Stadium (BMO Field),Toronto,CAN,76,America/Toronto,18.1,59,15.5,0.0,17.9,0,18.1,Low,0,2026-08-02T10:18:36.086596+00:00
+32,2026-06-19,23,Monterrey Stadium (Estadio BBVA),Guadalupe,MEX,538,America/Mexico_City,24.3,92,29.2,0.3,3.3,100,24.3,Low,0,2026-08-02T10:18:37.909172+00:00
+33,2026-06-20,15,Boston Stadium (Gillette Stadium),Foxborough,USA,87,America/New_York,25.3,39,23.5,0.0,22.5,52,25.3,Low,0,2026-08-02T10:18:42.443361+00:00
+34,2026-06-20,18,Kansas City Stadium (Arrowhead Stadium),Kansas City,USA,264,America/Chicago,27.9,53,29.4,0.0,7.9,98,28.61,Moderate,0,2026-08-02T10:18:44.227040+00:00
+35,2026-06-20,21,Philadelphia Stadium (Lincoln Financial Field),Philadelphia,USA,3,America/New_York,24.1,42,22.9,0.0,8.9,2,24.1,Low,0,2026-08-02T10:18:46.646881+00:00
+36,2026-06-20,23,Seattle Stadium (Lumen Field),Seattle,USA,3,America/Los_Angeles,15.8,67,14.0,0.0,11.6,0,15.8,Low,0,2026-08-02T10:18:49.259553+00:00
+37,2026-06-21,15,Houston Stadium (NRG Stadium),Houston,USA,14,America/Chicago,29.9,75,35.1,0.2,13.5,91,36.03,High,1,2026-08-02T10:18:51.132158+00:00
+38,2026-06-21,18,Miami Stadium (Hard Rock Stadium),Miami Gardens,USA,2,America/New_York,31.4,58,35.3,0.4,7.0,82,35.18,High,1,2026-08-02T10:18:55.470532+00:00
+39,2026-06-21,21,San Francisco Bay Area Stadium (Levi's Stadium),Santa Clara,USA,8,America/Los_Angeles,16.7,73,16.0,0.0,8.4,5,16.7,Low,0,2026-08-02T10:18:57.281569+00:00
+40,2026-06-21,23,New York New Jersey Stadium (MetLife Stadium),East Rutherford,USA,7,America/New_York,25.4,38,25.1,0.0,1.9,92,25.4,Low,0,2026-08-02T10:19:01.512858+00:00
+41,2026-06-22,15,Dallas Stadium (AT&T Stadium),Arlington,USA,184,America/Chicago,35.0,48,39.1,0.0,15.2,26,39.91,Extreme,1,2026-08-02T10:19:07.232172+00:00
+42,2026-06-22,18,Toronto Stadium (BMO Field),Toronto,CAN,76,America/Toronto,17.8,77,17.8,0.0,8.3,30,17.8,Low,0,2026-08-02T10:19:12.595444+00:00
+43,2026-06-22,21,Monterrey Stadium (Estadio BBVA),Guadalupe,MEX,538,America/Mexico_City,28.3,67,31.6,0.0,8.9,6,30.83,Moderate,0,2026-08-02T10:19:14.469732+00:00
+44,2026-06-22,23,Boston Stadium (Gillette Stadium),Foxborough,USA,87,America/New_York,16.6,97,16.7,0.1,13.8,100,16.6,Low,0,2026-08-02T10:19:19.076778+00:00
+45,2026-06-23,15,Kansas City Stadium (Arrowhead Stadium),Kansas City,USA,264,America/Chicago,25.9,54,28.0,0.0,9.4,98,25.9,Low,0,2026-08-02T10:19:24.623170+00:00
+46,2026-06-23,18,Philadelphia Stadium (Lincoln Financial Field),Philadelphia,USA,3,America/New_York,20.2,89,21.6,0.2,11.3,100,20.2,Low,0,2026-08-02T10:19:26.448062+00:00
+47,2026-06-23,21,Seattle Stadium (Lumen Field),Seattle,USA,3,America/Los_Angeles,26.3,30,23.9,0.0,11.7,2,26.3,Low,0,2026-08-02T10:19:31.418639+00:00
+48,2026-06-23,23,Mexico City Stadium (Estadio Azteca),Mexico City,MEX,2200,America/Mexico_City,15.4,85,15.7,0.1,4.5,48,15.4,Low,0,2026-08-02T10:19:33.286988+00:00
+49,2026-06-24,18,Mexico City Stadium (Estadio Azteca),Mexico City,MEX,2200,America/Mexico_City,20.2,62,20.6,3.1,2.7,55,20.2,Low,0,2026-08-02T10:19:37.936091+00:00
+50,2026-06-24,18,Guadalajara Stadium (Estadio Akron),Zapopan,MEX,1566,America/Mexico_City,20.5,78,21.0,1.8,12.6,51,20.5,Low,0,2026-08-02T10:19:42.917794+00:00
+51,2026-06-24,22,Vancouver Stadium (BC Place),Vancouver,CAN,9,America/Vancouver,24.1,40,22.8,0.0,8.0,0,24.1,Low,0,2026-08-02T10:19:44.723409+00:00
+52,2026-06-24,22,Toronto Stadium (BMO Field),Toronto,CAN,76,America/Toronto,21.3,49,20.6,0.0,5.6,22,21.3,Low,0,2026-08-02T10:19:49.831589+00:00
+53,2026-06-25,18,New York New Jersey Stadium (MetLife Stadium),East Rutherford,USA,7,America/New_York,26.6,42,25.0,0.0,16.0,65,26.6,Low,0,2026-08-02T10:19:53.194696+00:00
+54,2026-06-25,18,Boston Stadium (Gillette Stadium),Foxborough,USA,87,America/New_York,25.2,48,24.2,0.0,14.7,39,25.2,Low,0,2026-08-02T10:19:56.023827+00:00
+55,2026-06-25,22,Los Angeles Stadium (SoFi Stadium),Inglewood,USA,30,America/Los_Angeles,17.7,80,18.3,0.0,4.6,1,17.7,Low,0,2026-08-02T10:19:59.453633+00:00
+56,2026-06-25,22,San Francisco Bay Area Stadium (Levi's Stadium),Santa Clara,USA,8,America/Los_Angeles,16.5,64,15.4,0.0,6.8,67,16.5,Low,0,2026-08-02T10:20:02.350961+00:00
+57,2026-06-26,18,Atlanta Stadium (Mercedes-Benz Stadium),Atlanta,USA,318,America/New_York,30.9,47,32.9,0.0,7.1,5,31.9,Moderate,0,2026-08-02T10:20:07.880618+00:00
+58,2026-06-26,18,Houston Stadium (NRG Stadium),Houston,USA,14,America/Chicago,31.9,61,35.1,0.0,16.6,7,37.14,High,1,2026-08-02T10:20:13.896904+00:00
+59,2026-06-26,22,Kansas City Stadium (Arrowhead Stadium),Kansas City,USA,264,America/Chicago,22.7,93,26.2,0.0,8.1,95,22.7,Low,0,2026-08-02T10:20:15.747932+00:00
+60,2026-06-26,22,Seattle Stadium (Lumen Field),Seattle,USA,3,America/Los_Angeles,15.3,79,14.4,0.0,9.3,66,15.3,Low,0,2026-08-02T10:20:20.271206+00:00
+65,2026-06-26,18,Boston Stadium (Gillette Stadium),Foxborough,USA,87,America/New_York,23.8,77,25.6,0.1,12.3,73,23.8,Low,0,2026-08-02T10:20:22.121789+00:00
+66,2026-06-26,18,New York New Jersey Stadium (MetLife Stadium),East Rutherford,USA,7,America/New_York,27.6,54,29.2,0.0,6.8,100,28.34,Moderate,0,2026-08-02T10:20:24.309499+00:00
+61,2026-06-27,18,Dallas Stadium (AT&T Stadium),Arlington,USA,184,America/Chicago,35.2,40,35.3,0.0,24.6,28,37.59,High,1,2026-08-02T10:20:26.901732+00:00
+62,2026-06-27,18,Monterrey Stadium (Estadio BBVA),Guadalupe,MEX,538,America/Mexico_City,32.8,43,33.7,0.0,15.6,0,34.12,High,1,2026-08-02T10:20:28.747374+00:00
+63,2026-06-27,22,Miami Stadium (Hard Rock Stadium),Miami Gardens,USA,2,America/New_York,28.0,82,33.9,0.0,3.7,10,32.41,High,1,2026-08-02T10:20:33.200242+00:00
+64,2026-06-27,22,Philadelphia Stadium (Lincoln Financial Field),Philadelphia,USA,3,America/New_York,22.3,87,25.9,0.0,1.7,29,22.3,Low,0,2026-08-02T10:20:35.027717+00:00
+67,2026-06-27,22,San Francisco Bay Area Stadium (Levi's Stadium),Santa Clara,USA,8,America/Los_Angeles,15.6,67,15.1,0.0,2.7,2,15.6,Low,0,2026-08-02T10:20:39.255366+00:00
+68,2026-06-27,22,Los Angeles Stadium (SoFi Stadium),Inglewood,USA,30,America/Los_Angeles,17.7,81,18.5,0.0,4.0,18,17.7,Low,0,2026-08-02T10:20:41.085341+00:00
+69,2026-06-28,18,Miami Stadium (Hard Rock Stadium),Miami Gardens,USA,2,America/New_York,31.1,60,35.7,0.0,3.6,8,35.06,High,1,2026-08-02T10:20:45.602667+00:00
+70,2026-06-28,18,Atlanta Stadium (Mercedes-Benz Stadium),Atlanta,USA,318,America/New_York,32.7,46,34.3,0.0,14.0,3,34.66,High,1,2026-08-02T10:20:47.438879+00:00
+71,2026-06-28,22,New York New Jersey Stadium (MetLife Stadium),East Rutherford,USA,7,America/New_York,22.1,78,24.4,0.0,5.0,4,22.1,Low,0,2026-08-02T10:20:49.249693+00:00
+72,2026-06-28,22,Philadelphia Stadium (Lincoln Financial Field),Philadelphia,USA,3,America/New_York,23.1,90,27.3,0.0,2.7,17,23.1,Low,0,2026-08-02T10:20:52.425560+00:00
+73,2026-06-29,12,Los Angeles Stadium (SoFi Stadium),Inglewood,USA,30,America/Los_Angeles,20.4,67,20.8,0.0,6.6,100,20.4,Low,0,2026-08-02T10:20:54.982354+00:00
+74,2026-06-29,23,Houston Stadium (NRG Stadium),Houston,USA,14,America/Chicago,27.9,80,32.6,0.0,9.8,0,31.85,Moderate,0,2026-08-02T10:20:56.836272+00:00
+75,2026-06-30,2,Boston Stadium (Gillette Stadium),Foxborough,USA,87,America/New_York,17.0,96,18.4,0.0,5.3,7,17.0,Low,0,2026-08-02T10:20:58.628977+00:00
+76,2026-06-30,7,Monterrey Stadium (Estadio BBVA),Guadalupe,MEX,538,America/Mexico_City,23.1,90,27.2,0.0,2.4,100,23.1,Low,0,2026-08-02T10:21:00.706081+00:00
+77,2026-06-30,23,Dallas Stadium (AT&T Stadium),Arlington,USA,184,America/Chicago,30.4,54,31.9,0.0,16.3,1,32.38,High,1,2026-08-02T10:21:03.271400+00:00
+78,2026-07-01,3,New York New Jersey Stadium (MetLife Stadium),East Rutherford,USA,7,America/New_York,24.8,59,25.4,0.4,10.9,94,24.8,Low,0,2026-08-02T10:21:06.613783+00:00
+79,2026-07-01,7,Mexico City Stadium (Estadio Azteca),Mexico City,MEX,2200,America/Mexico_City,14.3,93,15.0,0.3,2.0,100,14.3,Low,0,2026-08-02T10:21:09.429383+00:00
+80,2026-07-01,22,Atlanta Stadium (Mercedes-Benz Stadium),Atlanta,USA,318,America/New_York,26.9,87,32.9,0.0,2.1,93,30.16,Moderate,0,2026-08-02T10:21:12.513472+00:00
+81,2026-07-02,2,Seattle Stadium (Lumen Field),Seattle,USA,3,America/Los_Angeles,14.0,84,13.9,0.0,3.5,50,14.0,Low,0,2026-08-02T10:21:15.131025+00:00
+82,2026-07-02,6,San Francisco Bay Area Stadium (Levi's Stadium),Santa Clara,USA,8,America/Los_Angeles,13.6,80,12.6,0.0,7.1,59,13.6,Low,0,2026-08-02T10:21:16.937927+00:00
+83,2026-07-03,1,Los Angeles Stadium (SoFi Stadium),Inglewood,USA,30,America/Los_Angeles,16.8,84,17.9,0.0,1.6,0,16.8,Low,0,2026-08-02T10:21:19.480965+00:00
+84,2026-07-03,5,Toronto Stadium (BMO Field),Toronto,CAN,76,America/Toronto,25.7,74,28.9,0.0,6.4,6,25.7,Low,0,2026-08-02T10:21:22.086151+00:00
+85,2026-07-03,9,Vancouver Stadium (BC Place),Vancouver,CAN,9,America/Vancouver,16.5,80,16.3,0.1,7.6,98,16.5,Low,0,2026-08-02T10:21:23.904612+00:00
+86,2026-07-04,0,Dallas Stadium (AT&T Stadium),Arlington,USA,184,America/Chicago,31.1,49,33.0,0.0,10.1,2,32.59,High,1,2026-08-02T10:21:26.099725+00:00
+87,2026-07-04,4,Miami Stadium (Hard Rock Stadium),Miami Gardens,USA,2,America/New_York,26.2,88,32.1,0.0,1.5,9,26.2,Low,0,2026-08-02T10:21:28.723918+00:00
+88,2026-07-04,7,Kansas City Stadium (Arrowhead Stadium),Kansas City,USA,264,America/Chicago,21.1,94,23.1,0.0,12.7,37,21.1,Low,0,2026-08-02T10:21:31.890227+00:00
+89,2026-07-04,21,Philadelphia Stadium (Lincoln Financial Field),Philadelphia,USA,3,America/New_York,30.4,55,31.7,1.1,18.8,98,32.58,High,1,2026-08-02T10:21:34.453923+00:00
+90,2026-07-04,23,Houston Stadium (NRG Stadium),Houston,USA,14,America/Chicago,28.6,77,33.6,0.0,8.0,3,33.09,High,1,2026-08-02T10:21:36.222853+00:00
+91,2026-07-05,20,Dallas Stadium (AT&T Stadium),Arlington,USA,184,America/Chicago,31.6,54,35.5,0.0,4.0,93,34.58,High,1,2026-08-02T10:21:40.672885+00:00
+92,2026-07-06,1,Mexico City Stadium (Estadio Azteca),Mexico City,MEX,2200,America/Mexico_City,14.6,93,15.6,0.0,1.2,100,14.6,Low,0,2026-08-02T10:21:46.165712+00:00
+93,2026-07-06,19,Miami Stadium (Hard Rock Stadium),Miami Gardens,USA,2,America/New_York,26.1,91,32.2,0.3,1.9,97,26.1,Low,0,2026-08-02T10:21:47.917100+00:00
+94,2026-07-07,0,San Francisco Bay Area Stadium (Levi's Stadium),Santa Clara,USA,8,America/Los_Angeles,14.1,86,13.5,0.0,7.3,100,14.1,Low,0,2026-08-02T10:21:50.191465+00:00
+95,2026-07-07,16,Kansas City Stadium (Arrowhead Stadium),Kansas City,USA,264,America/Chicago,32.1,40,35.0,0.0,7.3,4,32.42,High,1,2026-08-02T10:21:52.946259+00:00
+96,2026-07-07,20,Seattle Stadium (Lumen Field),Seattle,USA,3,America/Los_Angeles,21.0,57,19.5,0.0,14.6,99,21.0,Low,0,2026-08-02T10:21:54.794588+00:00
+97,2026-07-09,20,Boston Stadium (Gillette Stadium),Foxborough,USA,87,America/New_York,25.6,82,28.7,0.0,13.0,95,25.6,Low,0,2026-08-02T10:21:59.394416+00:00
+98,2026-07-10,19,Los Angeles Stadium (SoFi Stadium),Inglewood,USA,30,America/Los_Angeles,23.9,59,24.5,0.0,7.6,5,23.9,Low,0,2026-08-02T10:22:01.254411+00:00
+99,2026-07-11,21,Miami Stadium (Hard Rock Stadium),Miami Gardens,USA,2,America/New_York,29.3,72,34.4,0.0,5.2,65,33.81,High,1,2026-08-02T10:22:05.685789+00:00
+100,2026-07-12,1,Kansas City Stadium (Arrowhead Stadium),Kansas City,USA,264,America/Chicago,23.2,79,25.7,0.0,6.7,0,23.2,Low,0,2026-08-02T10:22:11.551459+00:00
+101,2026-07-14,20,Dallas Stadium (AT&T Stadium),Arlington,USA,184,America/Chicago,26.3,79,30.2,0.1,8.9,25,26.3,Low,0,2026-08-02T10:22:17.226932+00:00
+102,2026-07-15,20,Atlanta Stadium (Mercedes-Benz Stadium),Atlanta,USA,318,America/New_York,28.9,64,32.8,0.1,4.6,62,31.49,Moderate,0,2026-08-02T10:22:19.110823+00:00
+103,2026-07-18,22,Miami Stadium (Hard Rock Stadium),Miami Gardens,USA,2,America/New_York,28.3,77,33.3,0.0,6.5,100,32.35,High,1,2026-08-02T10:22:23.948717+00:00
+104,2026-07-19,20,New York New Jersey Stadium (MetLife Stadium),East Rutherford,USA,7,America/New_York,23.9,46,23.5,0.0,6.4,0,23.9,Low,0,2026-08-02T10:22:25.751142+00:00

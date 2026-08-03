@@ -1,0 +1,65 @@
+dey_match_id,phase,round,home_team,away_team,n_commentary,data_source,collection_method,verified,hb_number,half,hb_actual_minute,deviation_from_target,loaded_at,home_norm,away_norm,kaggle_match_id,date
+12813014,Knockout,Round of 32,Germany,Paraguay,173,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,23,1,2026-08-02T10:15:38.586814+00:00,Germany,Paraguay,75.0,2026-06-30
+12813014,Knockout,Round of 32,Germany,Paraguay,173,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,70,3,2026-08-02T10:15:38.586814+00:00,Germany,Paraguay,75.0,2026-06-30
+12812998,Knockout,Round of 32,Netherlands,Morocco,143,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,22,0,2026-08-02T10:15:38.586814+00:00,Netherlands,Morocco,76.0,2026-06-30
+12812998,Knockout,Round of 32,Netherlands,Morocco,143,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,67,0,2026-08-02T10:15:38.586814+00:00,Netherlands,Morocco,76.0,2026-06-30
+12812989,Knockout,Round of 32,Côte d'Ivoire,Norway,90,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,24,2,2026-08-02T10:15:38.586814+00:00,Ivory Coast,Norway,,
+12812989,Knockout,Round of 32,Côte d'Ivoire,Norway,90,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,68,1,2026-08-02T10:15:38.586814+00:00,Ivory Coast,Norway,,
+12812995,Knockout,Round of 32,France,Sweden,114,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,23,1,2026-08-02T10:15:38.586814+00:00,France,Sweden,78.0,2026-07-01
+12812995,Knockout,Round of 32,France,Sweden,114,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,68,1,2026-08-02T10:15:38.586814+00:00,France,Sweden,78.0,2026-07-01
+12813001,Knockout,Round of 32,Mexico,Ecuador,110,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,25,3,2026-08-02T10:15:38.586814+00:00,Mexico,Ecuador,79.0,2026-07-01
+12813001,Knockout,Round of 32,Mexico,Ecuador,110,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,68,1,2026-08-02T10:15:38.586814+00:00,Mexico,Ecuador,79.0,2026-07-01
+12813020,Knockout,Round of 32,England,DR Congo,103,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,23,1,2026-08-02T10:15:38.586814+00:00,England,Congo DR,80.0,2026-07-01
+12813020,Knockout,Round of 32,England,DR Congo,103,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,68,1,2026-08-02T10:15:38.586814+00:00,England,Congo DR,80.0,2026-07-01
+12813013,Knockout,Round of 32,Belgium,Senegal,150,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,27,5,2026-08-02T10:15:38.586814+00:00,Belgium,Senegal,81.0,2026-07-02
+12813013,Knockout,Round of 32,Belgium,Senegal,150,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,70,3,2026-08-02T10:15:38.586814+00:00,Belgium,Senegal,81.0,2026-07-02
+12812992,Knockout,Round of 32,USA,Bosnia & Herzegovina,103,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,23,1,2026-08-02T10:15:38.586814+00:00,United States,Bosnia and Herzegovina,,
+12812992,Knockout,Round of 32,USA,Bosnia & Herzegovina,103,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,69,2,2026-08-02T10:15:38.586814+00:00,United States,Bosnia and Herzegovina,,
+12813004,Knockout,Round of 32,Spain,Austria,116,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,24,2,2026-08-02T10:15:38.586814+00:00,Spain,Austria,83.0,2026-07-03
+12813004,Knockout,Round of 32,Spain,Austria,116,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,68,1,2026-08-02T10:15:38.586814+00:00,Spain,Austria,83.0,2026-07-03
+12812997,Knockout,Round of 32,Portugal,Croatia,111,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,24,2,2026-08-02T10:15:38.586814+00:00,Portugal,Croatia,84.0,2026-07-03
+12812997,Knockout,Round of 32,Portugal,Croatia,111,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,69,2,2026-08-02T10:15:38.586814+00:00,Portugal,Croatia,84.0,2026-07-03
+12813019,Knockout,Round of 32,Switzerland,Algeria,102,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,25,3,2026-08-02T10:15:38.586814+00:00,Switzerland,Algeria,85.0,2026-07-03
+12813019,Knockout,Round of 32,Switzerland,Algeria,102,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,67,0,2026-08-02T10:15:38.586814+00:00,Switzerland,Algeria,85.0,2026-07-03
+12813018,Knockout,Round of 32,Australia,Egypt,146,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,23,1,2026-08-02T10:15:38.586814+00:00,Australia,Egypt,86.0,2026-07-04
+12813018,Knockout,Round of 32,Australia,Egypt,146,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,68,1,2026-08-02T10:15:38.586814+00:00,Australia,Egypt,86.0,2026-07-04
+12812999,Knockout,Round of 32,Argentina,Cabo Verde,139,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,25,3,2026-08-02T10:15:38.586814+00:00,Argentina,Cape Verde Islands,,
+12812999,Knockout,Round of 32,Argentina,Cabo Verde,139,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,73,6,2026-08-02T10:15:38.586814+00:00,Argentina,Cape Verde Islands,,
+12813011,Knockout,Round of 32,Colombia,Ghana,119,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,24,2,2026-08-02T10:15:38.586814+00:00,Colombia,Ghana,88.0,2026-07-04
+12813011,Knockout,Round of 32,Colombia,Ghana,119,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,69,2,2026-08-02T10:15:38.586814+00:00,Colombia,Ghana,88.0,2026-07-04
+12813009,Knockout,Round of 16,Canada,Morocco,141,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,24,2,2026-08-02T10:15:38.586814+00:00,Canada,Morocco,90.0,2026-07-04
+12813009,Knockout,Round of 16,Canada,Morocco,141,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,68,1,2026-08-02T10:15:38.586814+00:00,Canada,Morocco,90.0,2026-07-04
+12813010,Knockout,Round of 16,Paraguay,France,107,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,23,1,2026-08-02T10:15:38.586814+00:00,Paraguay,France,89.0,2026-07-04
+12813010,Knockout,Round of 16,Paraguay,France,107,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,73,6,2026-08-02T10:15:38.586814+00:00,Paraguay,France,89.0,2026-07-04
+12813006,Knockout,Round of 16,Brazil,Norway,81,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,27,5,2026-08-02T10:15:38.586814+00:00,Brazil,Norway,91.0,2026-07-05
+12813006,Knockout,Round of 16,Brazil,Norway,81,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,68,1,2026-08-02T10:15:38.586814+00:00,Brazil,Norway,91.0,2026-07-05
+12813007,Knockout,Round of 16,Mexico,England,117,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,23,1,2026-08-02T10:15:38.586814+00:00,Mexico,England,92.0,2026-07-06
+12813007,Knockout,Round of 16,Mexico,England,117,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,71,4,2026-08-02T10:15:38.586814+00:00,Mexico,England,92.0,2026-07-06
+12812990,Knockout,Round of 16,Portugal,Spain,107,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,23,1,2026-08-02T10:15:38.586814+00:00,Portugal,Spain,93.0,2026-07-06
+12812990,Knockout,Round of 16,Portugal,Spain,107,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,68,1,2026-08-02T10:15:38.586814+00:00,Portugal,Spain,93.0,2026-07-06
+12813002,Knockout,Round of 16,USA,Belgium,103,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,24,2,2026-08-02T10:15:38.586814+00:00,United States,Belgium,,
+12813002,Knockout,Round of 16,USA,Belgium,103,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,69,2,2026-08-02T10:15:38.586814+00:00,United States,Belgium,,
+12812993,Knockout,Round of 16,Argentina,Egypt,115,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,23,1,2026-08-02T10:15:38.586814+00:00,Argentina,Egypt,95.0,2026-07-07
+12812993,Knockout,Round of 16,Argentina,Egypt,115,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,71,4,2026-08-02T10:15:38.586814+00:00,Argentina,Egypt,95.0,2026-07-07
+12812991,Knockout,Round of 16,Switzerland,Colombia,178,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,23,1,2026-08-02T10:15:38.586814+00:00,Switzerland,Colombia,96.0,2026-07-07
+12812991,Knockout,Round of 16,Switzerland,Colombia,178,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,68,1,2026-08-02T10:15:38.586814+00:00,Switzerland,Colombia,96.0,2026-07-07
+12813016,Knockout,Quarterfinals,France,Morocco,102,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,29,7,2026-08-02T10:15:38.586814+00:00,France,Morocco,97.0,2026-07-09
+12813016,Knockout,Quarterfinals,France,Morocco,102,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,67,0,2026-08-02T10:15:38.586814+00:00,France,Morocco,97.0,2026-07-09
+12812994,Knockout,Quarterfinals,Spain,Belgium,124,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,23,1,2026-08-02T10:15:38.586814+00:00,Spain,Belgium,98.0,2026-07-10
+12812994,Knockout,Quarterfinals,Spain,Belgium,124,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,67,0,2026-08-02T10:15:38.586814+00:00,Spain,Belgium,98.0,2026-07-10
+12813017,Knockout,Quarterfinals,Norway,England,119,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,23,1,2026-08-02T10:15:38.586814+00:00,Norway,England,99.0,2026-07-11
+12813017,Knockout,Quarterfinals,Norway,England,119,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,68,1,2026-08-02T10:15:38.586814+00:00,Norway,England,99.0,2026-07-11
+12813015,Knockout,Quarterfinals,Argentina,Switzerland,151,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,23,1,2026-08-02T10:15:38.586814+00:00,Argentina,Switzerland,100.0,2026-07-12
+12813015,Knockout,Quarterfinals,Argentina,Switzerland,151,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,75,8,2026-08-02T10:15:38.586814+00:00,Argentina,Switzerland,100.0,2026-07-12
+12813008,Knockout,Semifinals,France,Spain,114,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,24,2,2026-08-02T10:15:38.586814+00:00,France,Spain,101.0,2026-07-14
+12813008,Knockout,Semifinals,France,Spain,114,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,69,2,2026-08-02T10:15:38.586814+00:00,France,Spain,101.0,2026-07-14
+12812996,Knockout,Semifinals,England,Argentina,115,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,25,3,2026-08-02T10:15:38.586814+00:00,England,Argentina,102.0,2026-07-15
+12812996,Knockout,Semifinals,England,Argentina,115,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,69,2,2026-08-02T10:15:38.586814+00:00,England,Argentina,102.0,2026-07-15
+12813003,Knockout,Match for 3rd place,France,England,122,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,23,1,2026-08-02T10:15:38.586814+00:00,France,England,103.0,2026-07-18
+12813003,Knockout,Match for 3rd place,France,England,122,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,68,1,2026-08-02T10:15:38.586814+00:00,France,England,103.0,2026-07-18
+12813005,Knockout,Final,Spain,Argentina,172,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,25,3,2026-08-02T10:15:38.586814+00:00,Spain,Argentina,104.0,2026-07-19
+12813005,Knockout,Final,Spain,Argentina,172,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,67,0,2026-08-02T10:15:38.586814+00:00,Spain,Argentina,104.0,2026-07-19
+12813000,Knockout,Round of 32,South Africa,Canada,103,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,23,1,2026-08-02T10:15:38.586814+00:00,South Africa,Canada,73.0,2026-06-29
+12813000,Knockout,Round of 32,South Africa,Canada,103,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,67,0,2026-08-02T10:15:38.586814+00:00,South Africa,Canada,73.0,2026-06-29
+12813012,Knockout,Round of 32,Brazil,Japan,91,Dey (2026) arXiv:2607.19783,Live text commentary,1,1,1,23,1,2026-08-02T10:15:38.586814+00:00,Brazil,Japan,74.0,2026-06-29
+12813012,Knockout,Round of 32,Brazil,Japan,91,Dey (2026) arXiv:2607.19783,Live text commentary,1,2,2,68,1,2026-08-02T10:15:38.586814+00:00,Brazil,Japan,74.0,2026-06-29
